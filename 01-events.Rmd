@@ -14,6 +14,8 @@ The format for listing an R event is:
   * July: UseR! 2017. Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels)
   * July: [BioC 2017](https://www.bioconductor.org/help/course-materials/2017/BioC2017/): Boston, USA.
   * April: [New York R Conference 2017](http://www.rstats.nyc), New York, NY
+  * March/April [rOpenSci Unconference 2017](http://unconf16.ropensci.org), San Francisco, CA
+  * Late Summer/early Fall [rOpenSci Unconf Australia 2017](http://ropensci.org), Melbourne, Australia
 
 ## 2016 {-}
 
